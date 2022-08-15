@@ -2130,6 +2130,9 @@ textarea.input {
   position: static;
   margin: 15px 0px;
 }
+.rubl {
+  font-family: 'PT Sans', serif;
+  }
 
 /*=========================================================
 	13 -> RESPONSIVE
@@ -2174,6 +2177,7 @@ textarea.input {
     margin-top: 10px;
   }
 }
+
 
 @media only screen and (max-width: 480px) {
   [class*='col-xs'] {
