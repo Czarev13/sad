@@ -520,7 +520,7 @@ textarea.input {
 }
 
 .header-ctn>div>a>span {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .header-ctn>div>a>.qty {
@@ -993,9 +993,9 @@ textarea.input {
   -ms-transform: translate(-50%, -15px);
   transform: translate(-50%, -15px);
   width: 150px;
-  padding: 10px;
-  font-size: 12px;
-  line-height: 10px;
+  padding: 6px;
+  font-size: 10px;
+  line-height: 8px;
   background: #1e1f29;
   color: #FFF;
   text-transform: uppercase;
